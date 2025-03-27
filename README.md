@@ -1,4 +1,5 @@
 Olá, sou João Victor
+
 <a href="https://www.linkedin.com/in/jo%C3%A3o-braz-2b78432b0/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Sou estudante de tecnologia atualmente focado na área de cyber segurança, buscando conceitos e aperfeiçoamento para ser um bom profissional
@@ -8,10 +9,13 @@ Minha jornada em análise e desenvolvimento de sistemas me levou a desenvolver u
 
 Habilidades
 
-                         | Projetos|
+
+| Habilidades                                       |  Projetos         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/jbraz1708/IDS-project">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/jbraz1708/IDS-project">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/jbraz1708/IDS-project">IDS</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/jbraz1708/IDS-project">IDS</a>|
+
+
 
 Rede
 <div> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" /> <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" /> </div>
