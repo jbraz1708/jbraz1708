@@ -5,6 +5,7 @@ Olá, sou João Victor
 Sou estudante de tecnologia atualmente focado na área de cyber segurança, buscando conceitos e aperfeiçoamento para ser um bom profissional
 
 Objetivo
+
 Minha jornada em análise e desenvolvimento de sistemas me levou a desenvolver uma paixão por segurança cibernética, e agora estou ansioso para fazer a transição para esta área, com o objetivo específico de ingressar em um Centro de Operações de Segurança (SOC) como Analista de Nível 1.
 
 Habilidades
