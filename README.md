@@ -1,16 +1,26 @@
-## Hi there 👋
+Olá, sou João Victor
+<a href="https://www.linkedin.com/in/jo%C3%A3o-braz-2b78432b0/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**jbraz1708/jbraz1708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de tecnologia atualmente focado na área de cyber segurança, buscando conceitos e aperfeiçoamento para ser um bom profissional
 
-Here are some ideas to get you started:
+Objetivo
+Minha jornada em análise e desenvolvimento de sistemas me levou a desenvolver uma paixão por segurança cibernética, e agora estou ansioso para fazer a transição para esta área, com o objetivo específico de ingressar em um Centro de Operações de Segurança (SOC) como Analista de Nível 1.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Habilidades
+
+                         | Projetos|
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/jbraz1708/IDS-project">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/jbraz1708/IDS-project">Detection Lab</a>|
+
+Rede
+<div> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" /> <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" /> </div>
+
+SIEM
+<div> <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /> </div>
+
+
+Projetos: 
+
+Intrusion Detected System (IDS) - <a href="https://github.com/jbraz1708/IDS-project"></a>
+
