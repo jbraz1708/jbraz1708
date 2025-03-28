@@ -8,13 +8,12 @@ Objetivo
 
 Minha jornada em análise e desenvolvimento de sistemas me levou a desenvolver uma paixão por segurança cibernética, e agora estou ansioso para fazer a transição para esta área, com o objetivo específico de ingressar em um Centro de Operações de Segurança (SOC) como Analista de Nível 1.
 
-Habilidades
 
 
-| Habilidades                                       |  Projetos         |
+|             Projetos                          |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/jbraz1708/IDS-project">IDS</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/jbraz1708/IDS-project">IDS</a>|
+| Intrusion Detected System (Sistema de Detecção de intrusão)          | <a href="https://github.com/jbraz1708/IDS-project">IDS</a>|
+
 
 
 
@@ -23,9 +22,3 @@ Rede
 
 SIEM
 <div> <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /> </div>
-
-
-Projetos: 
-
-Intrusion Detected System (IDS) - <a href="https://github.com/jbraz1708/IDS-project">Clique para visualizar o projeto!!</a>
-
