@@ -20,10 +20,6 @@ Minha jornada em análise e desenvolvimento de sistemas me levou a desenvolver u
 
 -----
 
-Aqui está sua seção de **Habilidades** atualizada com a informação do curso:  
-
----
-
 # **Habilidades**  
 
 ### **Rede**  
